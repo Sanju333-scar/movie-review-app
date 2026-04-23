@@ -33,11 +33,6 @@ Inspired by platforms like IMDb and TMDB, it enables users to:
 
 ## 📸 Screenshots
 
-### 🏠 Landing Page
-![Landing](Screenshots/Landing.png.png)
-
-### 🔐 Login Page
-![Login](Screenshots/login.png.png)
 
 ### 📝 Signup Page
 ![Signup](Screenshots/Signup.png.png)
@@ -50,9 +45,6 @@ Inspired by platforms like IMDb and TMDB, it enables users to:
 
 ### 🔍 Search & Filter
 ![Search](Screenshots/filter_search.png.png)
-
-### 🎥 Movie Details
-![Details](Screenshots/movie_details.png.png)
 
 ### ⭐ Review & Rating
 ![Review](Screenshots/Review_Rating.png.png)
