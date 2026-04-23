@@ -1,39 +1,106 @@
+# 🎬 CiniRev - Movie Review & Recommendation App
+
 ## 📖 Description
 
-**CiniRev** is a full-stack social platform designed for movie enthusiasts to discover, review, and discuss films in an interactive and engaging environment. Inspired by platforms like IMDb and TMDB, it enables users to share their cinematic experiences and connect with a broader community.
+**CiniRev** is a full-stack social platform designed for movie enthusiasts to discover, review, and discuss films in an interactive and engaging environment.
 
-The application allows users to maintain personalized profiles, track watched movies, rate and review films, and manage watchlists for future viewing.
-
----
-
-## 🚀 Key Features
-
-* 🔐 User authentication and profile management
-* 🎥 Browse and explore movies
-* ⭐ Rate and review films
-* 📌 Create and manage watchlists
-* 🧾 Track watched movies
-* 🧠 Movie recommendation system using Apriori algorithm
+Inspired by platforms like IMDb and TMDB, it enables users to:
+- Share movie experiences
+- Explore films
+- Get personalized recommendations
+- Connect with a broader community
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Features
 
-* **Frontend:** Flutter
-* **Backend:** FastAPI (Python)
-* **Database:** PostgreSQL
-* **Recommendation Engine:** Apriori Algorithm
+- 🔐 User authentication & profile management  
+- 🎥 Browse movies by genre, language, and country  
+- ⭐ Rate and review movies  
+- 📌 Create and manage watchlists  
+- 🧾 Track watched movies  
+- 🤖 Movie recommendation system  
+
+---
+
+## 🎬 Demo Video
+
+🎥 Click below to watch the full demo:
+
+[![Watch Demo](https://img.youtube.com/vi/hJTPLUlEVEs/0.jpg)](https://youtu.be/hJTPLUlEVEs)
+
+---
+
+## 📸 Screenshots
+
+### 🏠 Landing Page
+![Landing](Screenshots/Landing.png.png)
+
+### 🔐 Login Page
+![Login](Screenshots/login.png.png)
+
+### 📝 Signup Page
+![Signup](Screenshots/Signup.png.png)
+
+### 🏠 Home Page
+![Home](Screenshots/Home.png.png)
+
+### 🎬 Movie Listing
+![Listing](Screenshots/Listing.png.png)
+
+### 🔍 Search & Filter
+![Search](Screenshots/filter_search.png.png)
+
+### 🎥 Movie Details
+![Details](Screenshots/movie_details.png.png)
+
+### ⭐ Review & Rating
+![Review](Screenshots/Review_Rating.png.png)
+
+### 🤖 AI Recommendation
+![AI](Screenshots/AI_recommendation.png.png)
+
+### 📊 Recommendation System
+![Recommendation](Screenshots/recommendation.png.png)
 
 ---
 
 ## 🧠 Recommendation System
 
-The application uses the **Apriori Algorithm** to analyze user behavior and identify patterns in movie preferences. Based on frequently co-occurring movie interactions, the system suggests relevant movies to users, enhancing personalization.
+CiniRev uses the **Apriori Algorithm** to generate personalized movie recommendations.
+
+- 📊 Finds frequently watched movie patterns  
+- 🎯 Suggests movies based on user behavior  
+- 📈 Improves recommendation accuracy over time  
 
 ---
 
-## 📌 Highlights
+## 🛠 Tech Stack
 
-* Designed a modular backend architecture using FastAPI
-* Integrated PostgreSQL for efficient data management
-* Built a responsive cross-platform UI using Flutter
+### 🎨 Frontend
+- Flutter (Cross-platform UI)
+
+### ⚙️ Backend
+- FastAPI (Python)
+
+
+### 🗄 Database
+- PostgreSQL
+
+### 🔗 APIs Used
+- TMDB API (Movie data)
+- Gemini API 
+
+---
+
+## ⚡ Project Highlights
+
+- ✅ Modular backend architecture using FastAPI  
+- ✅ Real-time API integration with TMDB  
+- ✅ Recommendation system using Apriori algorithm  
+- ✅ Clean and responsive Flutter UI  
+- ✅ Scalable and maintainable project structure  
+
+---
+
+## 📂 Project Structure (Simplified)
